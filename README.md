@@ -8,3 +8,7 @@ Description on how to collaborate on files that you do not have permission to ed
 1. Write a message and click the green button "Create Pull Request".
 
 Now it is up to the owner of the branch to merge og reject the request.
+
+
+
+_<div align="right">&copy; clbo@kea.dk</div>_
